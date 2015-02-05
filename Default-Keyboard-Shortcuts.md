@@ -11,7 +11,7 @@
 ||||
 | Down | Down, Ctrl-N | Down | go line down |
 | Up | Up, Ctrl-P | Up| go line up |
-|  | Ctrl-L | Go To Line Number | center selection |
+| |Ctrl-L Center Line | Ctrl-L | Go To Line Number |
 |||Search-Ctrl-Left    | go to top                      |
 |||Search-Ctrl-Right   | go to end                      |
 |||Alt-Left|go to End of Line|

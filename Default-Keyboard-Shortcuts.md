@@ -3,16 +3,16 @@
 | PC (Windows/Linux)             | Mac                            | Chromebook action              | Action                        |
 |:-------------------------------|:-------------------------------|:-------------------------------|:------------------------------|
 |||Ctrl-Shift-F|search files AND search within files|
+|||Ctrl-1..3..| switch tabs|
+|||Ctrl-tab, Ctrl-Shift+[|cycle tabs backwards|
+|||Ctrl-Shift+]|cycle tabs forward|
+||||
+|Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
+| Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |
 |||Search-Alt-Up | Move Block or line up           |
 |||Search-Alt-Down    |Move Block / line down         |
 |||Search-Ctrl-Left    | go to top                      |
 |||Search-Ctrl-Right   | go to end                      |
-|||Ctrl-1..3..| switch tabs|
-|||Ctrl-tab, Ctrl-Shift+[|cycle tabs backwards|
-|||Ctrl-Shift+]|cycle tabs forward|
-| Ctrl-, | Command-, | Nothing| Show the settings menu|
-| Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
-| Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |
 | Ctrl-Alt-Right | Ctrl-Option-Right | Nothing | add next occurrence to multi-selection |
 | Ctrl-Alt-Left | Ctrl-Option-Left | Nothing | add previous occurrence to multi-selection |
 |  | Ctrl-L | Go To Line Number | center selection |
@@ -87,3 +87,4 @@
 | Alt-Shift-L, Ctrl-Shift-F1 | Command-Option-Shift-L, Command-Shift-F1 | Alt-Shift-L|unfold |
 | Alt-Shift-0 | Command-Option-Shift-0 | unfold all |
 | Ctrl-Enter | Command-Enter | Nothing| enter full screen |
+| Ctrl-, | Command-, | Nothing| Show the settings menu|

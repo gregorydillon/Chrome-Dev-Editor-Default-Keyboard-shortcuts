@@ -15,7 +15,7 @@
 ||||
 | Ctrl-F | Command-F | find | find |
 | Ctrl-K | Command-G | Ctrl-K find next |find next |
-| Ctrl-Shift-K | Command-Shift-G | Ctrl-Shift-K find previous |
+| Ctrl-Shift-K | Command-Shift-G | Ctrl-Shift-K | find previous |
 | Ctrl-H replace | Command-Option-F replace | Ctrl-H  |replace |
 ||||
 | Ctrl-Shift-L select all from multi-selection | Ctrl-Shift-L select all from multi-selection | Ctrl-Shift-L  | select line |

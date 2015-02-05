@@ -7,6 +7,11 @@
 |||Ctrl-tab, Ctrl-Shift+[|cycle tabs backwards|
 |||Ctrl-Shift+]|cycle tabs forward|
 ||||
+||||
+||||
+||Alt-Left|go to End of Line|
+||Alt-Right|go to Beginning of line|
+
 |Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
 | Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |
 |||Search-Alt-Up | Move Block or line up           |

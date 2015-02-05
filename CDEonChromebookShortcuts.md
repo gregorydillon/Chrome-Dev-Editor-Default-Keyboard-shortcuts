@@ -14,8 +14,8 @@
 |Ctrl-L|Go To Line Number||Ctrl-L Center Line
 ||||
 |Ctrl-F|find|Ctrl-F|Command-F
-|Ctrl-K find next|find next|Ctrl-K|Command-G
-|Ctrl-Shift-K|find previous|Ctrl-Shift-K|Command-Shift-G
+|Ctrl-K find |find next of selected|Ctrl-K|Command-G
+|Ctrl-Shift-K|find previous of selected|Ctrl-Shift-K|Command-Shift-G
 |Ctrl-H|replace|Ctrl-H replace|Command-Option-F replace
 ||||
 |Ctrl-Shift-L|select line|Ctrl-Shift-L select all from multi-selection|Ctrl-Shift-L select all from multi-selection

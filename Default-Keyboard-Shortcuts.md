@@ -13,9 +13,14 @@
 | Up | Up, Ctrl-P | Up| go line up |
 | |Ctrl-L Center Line | Ctrl-L | Go To Line Number |
 |||Search-Ctrl-Left    | go to top                      |
-|||Search-Ctrl-Right   | go to end                      |
+|Ctrl-End go to end|Command-End, Command-Down|Search-Ctrl-Right   | go to end                      |
 |||Alt-Left|go to End of Line|
 |||Alt-Right|go to Beginning of line|
+||||
+| Ctrl-F | Command-F | find | find |
+| Ctrl-K | Command-G | Ctrl-K find next |find next |
+| Ctrl-Shift-K | Command-Shift-G | Ctrl-Shift-K find previous |
+| Ctrl-H replace | Command-Option-F replace | Ctrl-H  |replace |
 ||||
 | Ctrl-Shift-L select all from multi-selection | Ctrl-Shift-L select all from multi-selection | Ctrl-Shift-L  | select line |
 | Ctrl-Shift-D | Command-Shift-D | Ctrl-Shift-D |duplicate selection |
@@ -30,16 +35,10 @@
 | Alt-Shift-Up copy lines  up | Command-Option-Up copy lines  up | Alt-Shift-Up  | select one page of text  |
 | Delete |  | Alt-backspace | delete |
 ||||
-| Ctrl-F | Command-F | find | find |
-| Ctrl-K | Command-G | Ctrl-K find next |find next |
-| Ctrl-Shift-K | Command-Shift-G | Ctrl-Shift-K find previous |
 ||||
 | Alt-L, Ctrl-F1 | Command-Option-L, Command-F1 | Alt-L | fold selection |
-| Ctrl-End | Command-End, Command-Down | go to end |
-| Left | Left, Ctrl-B | go to left |
-| Ctrl-L | Command-L | go to line | go to line |
-| Alt-Right, End | Command-Right, End, Ctrl-E | go to line end |go to line end |
-| Alt-Left, Home | Command-Left, Home, Ctrl-A | go to line start |go to line start |
+| Alt-Right, End go to line end | Command-Right, End, Ctrl-E go to line end|Alt-Right  |go to line end |
+| Alt-Left, Home | Command-Left, Home, Ctrl-A | Alt-Left |go to line start |
 | Ctrl-P |  | go to matching bracket |go to matching bracket |
 | PageDown | Option-PageDown, Ctrl-V | Alt-down | go to page down |
 | PageUp | Option-PageUp | Alt-up| go to page up |
@@ -62,7 +61,6 @@
 | Alt-Backspace | Command-Backspace | Search-Alt-Backspace| remove to linestart |
 | Ctrl-Backspace | Option-Backspace, Ctrl-Option-Backspace | remove word left |remove word left |
 | Ctrl-Delete | Option-Delete | Ctrl-Alt-Backspace| remove word right |
-| Ctrl-H | Command-Option-F | replace |replace |
 | Ctrl-Down | Command-Down | scroll line down |scroll line down |
 | Ctrl-Up |  | scroll line up | scroll line up |
 |  | Option-PageDown | scroll page down |
@@ -81,8 +79,8 @@
 | Ctrl-Shift-P |  | select to matching bracket |select to matching bracket |
 | Ctrl-Shift-Home | Command-Shift-Up | Search-Shift-ctrl |select to start |
 | Shift-Up | Shift-Up | select up |select up |
-| Ctrl-Shift-Left | Option-Shift-Left | select word left |select word left |
-| Ctrl-Shift-Right | Option-Shift-Right | select word right |select word right |
+| Ctrl-Shift-Left | Option-Shift-Left | Ctrl-Shift-Left |select word left |
+| Ctrl-Shift-Right | Option-Shift-Right | Ctrl-Shift-Right |select word right |
 |  | Ctrl-O | Nothing| split line |
 | Ctrl-/ | Command-/ | toggle comment |toggle comment |
 | Ctrl-T | Ctrl-T |Nothing| transpose letters |

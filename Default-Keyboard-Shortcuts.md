@@ -12,8 +12,8 @@
 |||Alt-Left|go to End of Line|
 |||Alt-Right|go to Beginning of line|
 | Ctrl-Shift-D | Command-Shift-D | duplicate selection |duplicate selection |
-|Alt-Up|Option-Up|Search-Alt-Up | Move Block or line up           |
-|Alt-Down|Option-Down|Search-Alt-Down    |Move Block / line down         |
+|Alt-Up|Option-Up|Search-Alt-Up | Move lines up           |
+|Alt-Down|Option-Down|Search-Alt-Down    |Move lines down         |
 |||Search-Ctrl-Left    | go to top                      |
 |||Search-Ctrl-Right   | go to end                      |
 |  | Ctrl-L | Go To Line Number | center selection |
@@ -44,8 +44,6 @@
 | Tab | Tab | indent |indent |
 | Ctrl-Alt-E |  | says looks good | macros recording |
 | Ctrl-Shift-E | Command-Shift-E | maybe nothing | macros replay |
-| Alt-Down | Option-Down | Search-Alt-Up| move lines down |
-| Alt-Up | Option-Up | Search-Alt-Down| move lines up |
 | Ctrl-Alt-Shift-Up | Ctrl-Option-Shift-Up | selects from cursor to BOL| move multicursor from current line to the line above |
 | Ctrl-Alt-Shift-Down | Ctrl-Option-Shift-Down | selects from cursor to EOL| move multicursor from current line to the line below |
 | Shift-Tab | Shift-Tab | outdent |outdent |

@@ -18,16 +18,17 @@
 |||Alt-Right|go to Beginning of line|
 ||||
 | Ctrl-Shift-L select all from multi-selection | Ctrl-Shift-L select all from multi-selection | Ctrl-Shift-L  | select line |
-||||
 | Ctrl-Shift-D | Command-Shift-D | Ctrl-Shift-D |duplicate selection |
+||||
 |Alt-Up|Option-Up|Search-Alt-Up | Move lines up           |
 |Alt-Down|Option-Down|Search-Alt-Down    |Move lines down         |
 ||||
 | Ctrl-Shift-U | Ctrl-Shift-U | busted looks like error | change to lower case |
-| Ctrl-U | Ctrl-U | change to upper case | change to upper case |
-| Alt-Shift-Down | Command-Option-Down | select one page block of text | copy lines down |
-| Alt-Shift-Up | Command-Option-Up | select one page of text | copy lines  up |
-| Delete |  | delete |
+||||
+| Ctrl-U change to upper case | Ctrl-U change to upper case | Ctrl-U | change to upper case |
+| Alt-Shift-Down copy lines down| Command-Option-Down copy lines down | Alt-Shift-Down |  select one page block of text|
+| Alt-Shift-Up copy lines  up | Command-Option-Up copy lines  up | Alt-Shift-Up  | select one page of text  |
+| Delete |  | Alt-backspace | delete |
 ||||
 | Ctrl-F | Command-F | find | find |
 | Ctrl-K | Command-G | Ctrl-K find next |find next |

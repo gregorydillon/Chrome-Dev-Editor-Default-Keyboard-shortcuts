@@ -1,4 +1,4 @@
-#Chromebook Keyboard Shortcuts for Chrome Dev Editor
+#Chromebook Keyboard Shortcuts for Chrome Dev Editor (CDE)
 
 | PC (Windows/Linux)             | Mac                            | Chromebook                      | Action                        |
 |:-------------------------------|:-------------------------------|:-------------------------------|:------------------------------|

@@ -6,6 +6,9 @@
 |||Search-Alt-Down    |Move Block / line down         |
 |||Search-Ctrl-Left    | go to top                      |
 |||Search-Ctrl-Right   | go to end                      |
+||Ctrl-1..3..| switch tabs|
+||Ctrl-tab, Ctrl-Shift+[|cycle tabs backwards|
+||Ctrl-Shift+]|cycle tabs forward|
 | Ctrl-, | Command-, | Nothing| Show the settings menu|
 | Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
 | Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |
@@ -15,7 +18,7 @@
 | Ctrl-Shift-U | Ctrl-Shift-U | busted looks like error | change to lower case |
 | Ctrl-U | Ctrl-U | change to upper case | change to upper case |
 | Alt-Shift-Down | Command-Option-Down | select one page block of text | copy lines down |
-| Alt-Shift-Up | Command-Option-Up | select one page of text | copy lines up |
+| Alt-Shift-Up | Command-Option-Up | select one page of text | copy lines  up |
 | Delete |  | delete |
 | Ctrl-Shift-D | Command-Shift-D | duplicate selection |duplicate selection |
 | Ctrl-F | Command-F | find | find |

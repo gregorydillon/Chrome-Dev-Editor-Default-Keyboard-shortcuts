@@ -4,18 +4,14 @@
 |:-------------------------------|:-------------------------------|:-------------------------------|:------------------------------|
 |||Ctrl-Shift-F|search files AND search within files|
 |||Ctrl-1..3..| switch tabs|
-|||Ctrl-tab, Ctrl-Shift+[|cycle tabs backwards|
 |||Ctrl-Shift+]|cycle tabs forward|
+|||Ctrl-tab, Ctrl-Shift+[|cycle tabs backwards|
 ||||
-||||
-||||
-| Down | Down, Ctrl-N | Down | go line down |
-| Up | Up, Ctrl-P | Up| go line up |
-| |Ctrl-L Center Line | Ctrl-L | Go To Line Number |
-|||Search-Ctrl-Left    | go to top                      |
-|Ctrl-End go to end|Command-End, Command-Down|Search-Ctrl-Right   | go to end                      |
 |||Alt-Left|go to End of Line|
 |||Alt-Right|go to Beginning of line|
+|||Search-Ctrl-Left    | go to top                      |
+|Ctrl-End go to end|Command-End, Command-Down|Search-Ctrl-Right   | go to end                      |
+| |Ctrl-L Center Line | Ctrl-L | Go To Line Number |
 ||||
 | Ctrl-F | Command-F | find | find |
 | Ctrl-K | Command-G | Ctrl-K find next |find next |
@@ -95,3 +91,6 @@
 |Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
 | Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |
 | Alt-0 | Command-Option-0 | Nothing | fold all|
+|too obvious|||
+| Down | Down, Ctrl-N | Down | go line down |
+| Up | Up, Ctrl-P | Up| go line up |

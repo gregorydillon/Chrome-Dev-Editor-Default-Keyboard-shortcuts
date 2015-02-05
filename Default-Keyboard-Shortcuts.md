@@ -1,7 +1,8 @@
-#Default Keyboard Shortcuts
+#Chromebook Keyboard Shortcuts for Chrome Dev Editor
 
 | PC (Windows/Linux)             | Mac                            | Chromebook action              | Action                        |
 |:-------------------------------|:-------------------------------|:-------------------------------|:------------------------------|
+|||Ctrl-Shift-F|search files AND search within files|
 |||Search-Alt-Up | Move Block or line up           |
 |||Search-Alt-Down    |Move Block / line down         |
 |||Search-Ctrl-Left    | go to top                      |

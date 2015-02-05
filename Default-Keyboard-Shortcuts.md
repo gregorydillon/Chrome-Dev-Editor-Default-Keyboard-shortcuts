@@ -3,7 +3,7 @@
 | PC (Windows/Linux)             | Mac                            | Chromebook action              | Action                        |
 |:-------------------------------|:-------------------------------|:-------------------------------|:------------------------------|
 |||Search-Alt-Up | Move Block or line up           |
-|||Search-Alt-Down    ||Move Block or line down         |
+|||Search-Alt-Down    |Move Block / line down         |
 |||Search-Ctrl-Left    | go to top                      |
 |||Search-Ctrl-Right   | go to end                      |
 | Ctrl-, | Command-, | Nothing| Show the settings menu|

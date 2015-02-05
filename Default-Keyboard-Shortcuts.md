@@ -1,11 +1,11 @@
 #Default Keyboard Shortcuts
 
-| PC (Windows/Linux)             | Mac                            | Chromebook action              |
-|:-------------------------------|:-------------------------------|:-------------------------------|
-|Search-Alt-Up                   |                                |Move Block or line up           |
-|Search-Alt-Down                 |                                |Move Block or line down         |
-|Search-Ctrl-Left                |                                | go to top                      |
-|Search-Ctrl-Right               |                                | go to end                      |
+| PC (Windows/Linux)             | Mac                            | Chromebook action              | Action                        |
+|:-------------------------------|:-------------------------------|:-------------------------------|:------------------------------|
+|||Search-Alt-Up | Move Block or line up           |
+|||Search-Alt-Down    ||Move Block or line down         |
+|||Search-Ctrl-Left    | go to top                      |
+|||Search-Ctrl-Right   | go to end                      |
 
 | Ctrl-, | Command-, | Nothing| Show the settings menu| Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
 | Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |

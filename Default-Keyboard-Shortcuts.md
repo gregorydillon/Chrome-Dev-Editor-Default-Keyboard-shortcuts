@@ -6,9 +6,9 @@
 |||Search-Alt-Down    |Move Block / line down         |
 |||Search-Ctrl-Left    | go to top                      |
 |||Search-Ctrl-Right   | go to end                      |
-||Ctrl-1..3..| switch tabs|
-||Ctrl-tab, Ctrl-Shift+[|cycle tabs backwards|
-||Ctrl-Shift+]|cycle tabs forward|
+|||Ctrl-1..3..| switch tabs|
+|||Ctrl-tab, Ctrl-Shift+[|cycle tabs backwards|
+|||Ctrl-Shift+]|cycle tabs forward|
 | Ctrl-, | Command-, | Nothing| Show the settings menu|
 | Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
 | Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |

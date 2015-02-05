@@ -9,26 +9,31 @@
 ||||
 ||||
 ||||
+| Down | Down, Ctrl-N | Down | go line down |
+| Up | Up, Ctrl-P | Up| go line up |
+|  | Ctrl-L | Go To Line Number | center selection |
+|||Search-Ctrl-Left    | go to top                      |
+|||Search-Ctrl-Right   | go to end                      |
 |||Alt-Left|go to End of Line|
 |||Alt-Right|go to Beginning of line|
+||||
+| Ctrl-Shift-L | Ctrl-Shift-L | select line | select all from multi-selection |
+||||
 | Ctrl-Shift-D | Command-Shift-D | Ctrl-Shift-D |duplicate selection |
 |Alt-Up|Option-Up|Search-Alt-Up | Move lines up           |
 |Alt-Down|Option-Down|Search-Alt-Down    |Move lines down         |
-|||Search-Ctrl-Left    | go to top                      |
-|||Search-Ctrl-Right   | go to end                      |
-|  | Ctrl-L | Go To Line Number | center selection |
+||||
 | Ctrl-Shift-U | Ctrl-Shift-U | busted looks like error | change to lower case |
 | Ctrl-U | Ctrl-U | change to upper case | change to upper case |
 | Alt-Shift-Down | Command-Option-Down | select one page block of text | copy lines down |
 | Alt-Shift-Up | Command-Option-Up | select one page of text | copy lines  up |
 | Delete |  | delete |
+||||
 | Ctrl-F | Command-F | find | find |
 | Ctrl-K | Command-G | Ctrl-K find next |find next |
 | Ctrl-Shift-K | Command-Shift-G | Ctrl-Shift-K find previous |
-| Alt-0 | Command-Option-0 | Nothing | fold all|
+||||
 | Alt-L, Ctrl-F1 | Command-Option-L, Command-F1 | Alt-L | fold selection |
-| Down | Down, Ctrl-N | Down | go line down |
-| Up | Up, Ctrl-P | Up| go line up |
 | Ctrl-End | Command-End, Command-Down | go to end |
 | Left | Left, Ctrl-B | go to left |
 | Ctrl-L | Command-L | go to line | go to line |
@@ -62,7 +67,6 @@
 |  | Option-PageDown | scroll page down |
 |  | Option-PageUp | scroll page up |
 | Ctrl-A | Command-A | select all |select all |
-| Ctrl-Shift-L | Ctrl-Shift-L | select line | select all from multi-selection |
 | Shift-Down | Shift-Down | select down |select down |
 | Shift-Left | Shift-Left | select left |select left |
 | Shift-End | Shift-End | Shift-Alt-Left |select line end |
@@ -91,3 +95,4 @@
 | Ctrl-Alt-Left | Ctrl-Option-Left | Nothing | add previous occurrence to multi-selection |
 |Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
 | Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |
+| Alt-0 | Command-Option-0 | Nothing | fold all|

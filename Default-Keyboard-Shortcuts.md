@@ -9,8 +9,8 @@
 ||||
 ||||
 ||||
-||Alt-Left|go to End of Line|
-||Alt-Right|go to Beginning of line|
+|||Alt-Left|go to End of Line|
+|||Alt-Right|go to Beginning of line|
 
 |Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
 | Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |
@@ -92,4 +92,5 @@
 | Alt-Shift-L, Ctrl-Shift-F1 | Command-Option-Shift-L, Command-Shift-F1 | Alt-Shift-L|unfold |
 | Alt-Shift-0 | Command-Option-Shift-0 | unfold all |
 | Ctrl-Enter | Command-Enter | Nothing| enter full screen |
+|||Search->|toggle insert on/off|
 | Ctrl-, | Command-, | Nothing| Show the settings menu|

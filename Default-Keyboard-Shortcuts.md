@@ -6,8 +6,8 @@
 |||Search-Alt-Down    ||Move Block or line down         |
 |||Search-Ctrl-Left    | go to top                      |
 |||Search-Ctrl-Right   | go to end                      |
-
-| Ctrl-, | Command-, | Nothing| Show the settings menu| Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
+| Ctrl-, | Command-, | Nothing| Show the settings menu|
+| Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
 | Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |
 | Ctrl-Alt-Down | Ctrl-Option-Down | move cursor to beginning of line | add multi-cursor below |
 | Ctrl-Alt-Down | Ctrl-Option-Down | move cursor to beginning of line | add multi-cursor below |

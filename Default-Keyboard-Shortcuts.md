@@ -11,7 +11,7 @@
 ||||
 |||Alt-Left|go to End of Line|
 |||Alt-Right|go to Beginning of line|
-| Ctrl-Shift-D | Command-Shift-D | duplicate selection |duplicate selection |
+| Ctrl-Shift-D | Command-Shift-D | Ctrl-Shift-D |duplicate selection |
 |Alt-Up|Option-Up|Search-Alt-Up | Move lines up           |
 |Alt-Down|Option-Down|Search-Alt-Down    |Move lines down         |
 |||Search-Ctrl-Left    | go to top                      |

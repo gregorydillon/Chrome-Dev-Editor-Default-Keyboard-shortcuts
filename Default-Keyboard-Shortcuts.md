@@ -11,21 +11,17 @@
 ||||
 |||Alt-Left|go to End of Line|
 |||Alt-Right|go to Beginning of line|
-|Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
-| Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |
+| Ctrl-Shift-D | Command-Shift-D | duplicate selection |duplicate selection |
 |||Search-Alt-Up | Move Block or line up           |
 |||Search-Alt-Down    |Move Block / line down         |
 |||Search-Ctrl-Left    | go to top                      |
 |||Search-Ctrl-Right   | go to end                      |
-| Ctrl-Alt-Right | Ctrl-Option-Right | Nothing | add next occurrence to multi-selection |
-| Ctrl-Alt-Left | Ctrl-Option-Left | Nothing | add previous occurrence to multi-selection |
 |  | Ctrl-L | Go To Line Number | center selection |
 | Ctrl-Shift-U | Ctrl-Shift-U | busted looks like error | change to lower case |
 | Ctrl-U | Ctrl-U | change to upper case | change to upper case |
 | Alt-Shift-Down | Command-Option-Down | select one page block of text | copy lines down |
 | Alt-Shift-Up | Command-Option-Up | select one page of text | copy lines  up |
 | Delete |  | delete |
-| Ctrl-Shift-D | Command-Shift-D | duplicate selection |duplicate selection |
 | Ctrl-F | Command-F | find | find |
 | Ctrl-K | Command-G | Ctrl-K find next |find next |
 | Ctrl-Shift-K | Command-Shift-G | Ctrl-Shift-K find previous |
@@ -93,3 +89,7 @@
 | Ctrl-Enter | Command-Enter | Nothing| enter full screen |
 |||Search->|toggle insert on/off|
 | Ctrl-, | Command-, | Nothing| Show the settings menu|
+| Ctrl-Alt-Right | Ctrl-Option-Right | Nothing | add next occurrence to multi-selection |
+| Ctrl-Alt-Left | Ctrl-Option-Left | Nothing | add previous occurrence to multi-selection |
+|Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
+| Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |

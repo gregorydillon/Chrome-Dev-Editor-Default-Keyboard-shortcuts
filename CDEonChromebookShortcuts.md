@@ -1,4 +1,7 @@
-|Chromebook|Action|PC (Windows/Linux)|Mac
+#Chromebook Keyboard Shortcuts for Chrome Dev Editor (CDE)
+
+| Chromebook PC (Windows/Linux)  | Action                         |PC (Windows/Linux)              | Mac                          |
+|:-------------------------------|:-------------------------------|:-------------------------------|:------------------------------|
 |Ctrl-Shift-F|search files AND search within files||
 |Ctrl-1..3..|switch tabs||
 |Ctrl-Shift+]|cycle tabs forward||

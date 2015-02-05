@@ -12,8 +12,8 @@
 |||Alt-Left|go to End of Line|
 |||Alt-Right|go to Beginning of line|
 | Ctrl-Shift-D | Command-Shift-D | duplicate selection |duplicate selection |
-|||Search-Alt-Up | Move Block or line up           |
-|||Search-Alt-Down    |Move Block / line down         |
+|Alt-Up|Option-Up|Search-Alt-Up | Move Block or line up           |
+|Alt-Down|Option-Down|Search-Alt-Down    |Move Block / line down         |
 |||Search-Ctrl-Left    | go to top                      |
 |||Search-Ctrl-Right   | go to end                      |
 |  | Ctrl-L | Go To Line Number | center selection |

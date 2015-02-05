@@ -1,11 +1,11 @@
 #Chromebook Keyboard Shortcuts for Chrome Dev Editor (CDE)
 
-| Chromebook PC (Windows/Linux)  | Action                         |PC (Windows/Linux)              | Mac                          |
+| Chromebook                     | Action                         |PC (Windows/Linux)              | Mac                          |
 |:-------------------------------|:-------------------------------|:-------------------------------|:------------------------------|
 |Ctrl-Shift-F|search files AND search within files||
 |Ctrl-1..3..|switch tabs||
 |Ctrl-Shift+]|cycle tabs forward||
-|"Ctrl-tab| Ctrl-Shift+["|cycle tabs backwards||
+|Ctrl-Shift+[|cycle tabs backwards||
 ||||
 |Alt-Left|go to End of Line||
 |Alt-Right|go to Beginning of line||

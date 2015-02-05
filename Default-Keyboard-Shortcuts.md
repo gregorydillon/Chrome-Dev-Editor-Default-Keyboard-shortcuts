@@ -17,7 +17,7 @@
 |||Alt-Left|go to End of Line|
 |||Alt-Right|go to Beginning of line|
 ||||
-| Ctrl-Shift-L | Ctrl-Shift-L | select line | select all from multi-selection |
+| Ctrl-Shift-L select all from multi-selection | Ctrl-Shift-L select all from multi-selection | Ctrl-Shift-L select line |  |
 ||||
 | Ctrl-Shift-D | Command-Shift-D | Ctrl-Shift-D |duplicate selection |
 |Alt-Up|Option-Up|Search-Alt-Up | Move lines up           |

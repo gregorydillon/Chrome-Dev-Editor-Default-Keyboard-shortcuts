@@ -13,7 +13,7 @@
 |Search-Ctrl-Right|go to end|Ctrl-End go to end|"Command-End| Command-Down"
 |Ctrl-L|Go To Line Number||Ctrl-L Center Line
 ||||
-|find|find|Ctrl-F|Command-F
+|Ctrl-F|find|Ctrl-F|Command-F
 |Ctrl-K find next|find next|Ctrl-K|Command-G
 |Ctrl-Shift-K|find previous|Ctrl-Shift-K|Command-Shift-G
 |Ctrl-H|replace|Ctrl-H replace|Command-Option-F replace

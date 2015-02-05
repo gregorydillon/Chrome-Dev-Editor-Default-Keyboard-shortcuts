@@ -9,10 +9,6 @@
 | Ctrl-, | Command-, | Nothing| Show the settings menu|
 | Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
 | Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |
-| Ctrl-Alt-Down | Ctrl-Option-Down | move cursor to beginning of line | add multi-cursor below |
-| Ctrl-Alt-Down | Ctrl-Option-Down | move cursor to beginning of line | add multi-cursor below |
-| Ctrl-Alt-Down | Ctrl-Option-Down | move cursor to beginning of line | add multi-cursor below |
-| Ctrl-Alt-Down | Ctrl-Option-Down | move cursor to beginning of line | add multi-cursor below |
 | Ctrl-Alt-Right | Ctrl-Option-Right | Nothing | add next occurrence to multi-selection |
 | Ctrl-Alt-Left | Ctrl-Option-Left | Nothing | add previous occurrence to multi-selection |
 |  | Ctrl-L | Go To Line Number | center selection |

@@ -9,7 +9,7 @@
 ||||
 |Alt-Left|go to End of Line||
 |Alt-Right|go to Beginning of line||
-|go to matching bracket|go to matching bracket|Ctrl-P|
+|Ctrl-P|go to matching bracket|go to matching bracket|Ctrl-P|
 |Search-Ctrl-Left|go to top||
 |Search-Ctrl-Right|go to end|Ctrl-End go to end|"Command-End| Command-Down"
 |Alt-up|go to page up|PageUp|Option-PageUp

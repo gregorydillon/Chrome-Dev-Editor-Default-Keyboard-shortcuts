@@ -9,8 +9,10 @@
 ||||
 |Alt-Left|go to End of Line||
 |Alt-Right|go to Beginning of line||
+|go to matching bracket|go to matching bracket|Ctrl-P|
 |Search-Ctrl-Left|go to top||
 |Search-Ctrl-Right|go to end|Ctrl-End go to end|"Command-End| Command-Down"
+|Alt-up|go to page up|PageUp|Option-PageUp
 |Ctrl-L|Go To Line Number||Ctrl-L Center Line
 ||||
 |Ctrl-F|find|Ctrl-F|Command-F
@@ -19,25 +21,26 @@
 |Ctrl-H|replace|Ctrl-H replace|Command-Option-F replace
 ||||
 |Ctrl-Shift-L|select line|Ctrl-Shift-L select all from multi-selection|Ctrl-Shift-L select all from multi-selection
+|Ctrl-Shift-Left|select word left|Ctrl-Shift-Left|Option-Shift-Left
+|Ctrl-Shift-Right|select word right|Ctrl-Shift-Right|Option-Shift-Right
+|Alt-Shift-Down|select one page block of text|Alt-Shift-Down copy lines down|Command-Option-Down copy lines down
+|Alt-Shift-Up|select one page of text|Alt-Shift-Up copy lines up|Command-Option-Up copy lines up
+||||
 |Ctrl-Shift-D|duplicate selection|Ctrl-Shift-D|Command-Shift-D
+|Alt-L|fold selection|"Alt-L| Ctrl-F1"|"Command-Option-L| Command-F1"
+|Ctrl-U|change selection to upper case|Ctrl-U change to upper case|Ctrl-U change to upper case
 ||||
 |Search-Alt-Up|Move lines up|Alt-Up|Option-Up
 |Search-Alt-Down|Move lines down|Alt-Down|Option-Down
 ||||
-|busted looks like error|change to lower case|Ctrl-Shift-U|Ctrl-Shift-U
+|Ctrl-Shift-U| busted looks like error|Ctrl-Shift-U change to lower case|Ctrl-Shift-U- change to lower case|
 ||||
-|Ctrl-U|change to upper case|Ctrl-U change to upper case|Ctrl-U change to upper case
-|Alt-Shift-Down|select one page block of text|Alt-Shift-Down copy lines down|Command-Option-Down copy lines down
-|Alt-Shift-Up|select one page of text|Alt-Shift-Up copy lines up|Command-Option-Up copy lines up
 |Alt-backspace|delete|Delete|
 ||||
 ||||
-|Alt-L|fold selection|"Alt-L| Ctrl-F1"|"Command-Option-L| Command-F1"
 |Alt-Right|go to line end|"Alt-Right| End go to line end"|"Command-Right| End| Ctrl-E go to line end"
 |Alt-Left|go to line start|"Alt-Left| Home"|"Command-Left| Home| Ctrl-A"
-|go to matching bracket|go to matching bracket|Ctrl-P|
 |Alt-down|go to page down|PageDown|"Option-PageDown| Ctrl-V"
-|Alt-up|go to page up|PageUp|Option-PageUp
 |go to right|go to right|Right|"Right| Ctrl-F"
 |Search-Ctrl+left|go to start|Ctrl-Home|"Command-Home| Command-Up"
 |go to word left|go to word left|Ctrl-Left|Option-Left
@@ -49,7 +52,7 @@
 |selects from cursor to EOL|move multicursor from current line to the line below|Ctrl-Alt-Shift-Down|Ctrl-Option-Shift-Down
 |outdent|outdent|Shift-Tab|Shift-Tab
 |overwrite|overwrite|Insert|Insert
-|"Ctrl-Shift-Z| Ctrl-Y"|redo|"Ctrl-Shift-Z| Ctrl-Y"|"Command-Shift-Z| Command-Y"
+|Ctrl-Shift-Z| Ctrl-Y|redo|Ctrl-Shift-Z| Ctrl-Y|Command-Shift-Z| Command-Y
 |Nothing|remove current occurrence from multi-selection and move to next|Ctrl-Alt-Shift-Right|Ctrl-Option-Shift-Right
 |Nothing|remove current occurrence from multi-selection and move to previous|Ctrl-Alt-Shift-Left|Ctrl-Option-Shift-Left
 |remove line||Ctrl-D|Command-D
@@ -75,8 +78,6 @@
 |select to matching bracket|select to matching bracket|Ctrl-Shift-P|
 |Search-Shift-ctrl|select to start|Ctrl-Shift-Home|Command-Shift-Up
 |select up|select up|Shift-Up|Shift-Up
-|Ctrl-Shift-Left|select word left|Ctrl-Shift-Left|Option-Shift-Left
-|Ctrl-Shift-Right|select word right|Ctrl-Shift-Right|Option-Shift-Right
 |Nothing|split line||Ctrl-O
 |toggle comment|toggle comment|Ctrl-/|Command-/
 |Nothing|transpose letters|Ctrl-T|Ctrl-T

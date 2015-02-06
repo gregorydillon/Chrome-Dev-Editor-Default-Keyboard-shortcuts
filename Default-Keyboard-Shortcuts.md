@@ -13,9 +13,9 @@
 |Ctrl-End go to end|Command-End, Command-Down|Search-Ctrl-Right   | go to end                      |
 | |Ctrl-L Center Line | Ctrl-L | Go To Line Number |
 ||||
-| Ctrl-F | Command-F | find | find |
 | Ctrl-K | Command-G | Ctrl-K find next |find next |
 | Ctrl-Shift-K | Command-Shift-G | Ctrl-Shift-K | find previous |
+| Ctrl-F | Command-F | find | find |
 | Ctrl-H replace | Command-Option-F replace | Ctrl-H  |replace |
 ||||
 | Ctrl-Shift-L select all from multi-selection | Ctrl-Shift-L select all from multi-selection | Ctrl-Shift-L  | select line |

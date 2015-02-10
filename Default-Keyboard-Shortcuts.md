@@ -12,8 +12,6 @@
 |||Ctrl-Shift+]|cycle tabs forward|
 | Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
 | Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |
-| Ctrl-Alt-Right | Ctrl-Option-Right | Nothing | add next occurrence to multi-selection |
-| Ctrl-Alt-Left | Ctrl-Option-Left | Nothing | add previous occurrence to multi-selection |
 |  | Ctrl-L | Go To Line Number | center selection |
 | Ctrl-Shift-U | Ctrl-Shift-U | busted looks like error | change to lower case |
 | Ctrl-U | Ctrl-U | change to upper case | change to upper case |
@@ -87,3 +85,5 @@
 | Alt-Shift-0 | Command-Option-Shift-0 | unfold all |
 | Ctrl-Enter | Command-Enter | Nothing| enter full screen |
 | Ctrl-, | Command-, | Nothing| Show the settings menu|
+| Ctrl-Alt-Right | Ctrl-Option-Right | Nothing | add next occurrence to multi-selection |
+| Ctrl-Alt-Left | Ctrl-Option-Left | Nothing | add previous occurrence to multi-selection |

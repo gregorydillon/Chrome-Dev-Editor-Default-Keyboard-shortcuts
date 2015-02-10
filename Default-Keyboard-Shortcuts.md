@@ -10,7 +10,6 @@
 |||Ctrl-1..3..| switch tabs|
 |||Ctrl-tab, Ctrl-Shift+[|cycle tabs backwards|
 |||Ctrl-Shift+]|cycle tabs forward|
-| Ctrl-, | Command-, | Nothing| Show the settings menu|
 | Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
 | Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |
 | Ctrl-Alt-Right | Ctrl-Option-Right | Nothing | add next occurrence to multi-selection |
@@ -75,7 +74,7 @@
 | Ctrl-Shift-End | Command-Shift-Down | select to end |
 | Alt-Shift-Right | Command-Shift-Right | Alt-Shift-Right |select to line end |
 | Alt-Shift-Left | Command-Shift-Left | Alt-Shift-Left |select to line start |
-| Ctrl-Shift-P |  | select to matching bracket |select to matching bracket |
+| |  | Ctrl-Shift-P  |select to matching bracket |
 | Ctrl-Shift-Home | Command-Shift-Up | Search-Shift-ctrl |select to start |
 | Shift-Up | Shift-Up | select up |select up |
 | Ctrl-Shift-Left | Option-Shift-Left | select word left |select word left |
@@ -87,3 +86,4 @@
 | Alt-Shift-L, Ctrl-Shift-F1 | Command-Option-Shift-L, Command-Shift-F1 | Alt-Shift-L|unfold |
 | Alt-Shift-0 | Command-Option-Shift-0 | unfold all |
 | Ctrl-Enter | Command-Enter | Nothing| enter full screen |
+| Ctrl-, | Command-, | Nothing| Show the settings menu|

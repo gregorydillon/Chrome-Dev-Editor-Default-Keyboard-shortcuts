@@ -1,19 +1,20 @@
 #Chromebook Keyboard Shortcuts for Chrome Dev Editor
 
-| PC (Windows/Linux)             | Mac                            | Chromebook action              | Action                        |
-|:-------------------------------|:-------------------------------|:-------------------------------|:------------------------------|
-|||Ctrl-Shift-F|search files AND search within files|
-|||Search-Alt-Up | Move Block or line up           |
-|||Search-Alt-Down    |Move Block / line down         |
-|||Search-Ctrl-Left    | go to top                      |
-|||Search-Ctrl-Right   | go to end                      |
-|||Ctrl-1..3..| switch tabs|
-|||Ctrl-tab, Ctrl-Shift+[|cycle tabs backwards|
-|||Ctrl-Shift+]|cycle tabs forward|
-| Ctrl-Alt-Up | Ctrl-Option-Up | move cursor to end of line| add multi-cursor above |
-| Ctrl-Alt-Down | Ctrl-Option-Down | move cursorginning of line | add multi-cursor below |
-|  | Ctrl-L | Go To Line Number | center selection |
-| Ctrl-Shift-U | Ctrl-Shift-U | busted looks like error | change to lower case |
+| Key Combo| Chromebook action              |
+|:-------------------------------|:------------------------------|
+|Ctrl-Shift-/|Comment the BLOCK of Code|
+|Ctrl-Shift-F|search files AND search within files|
+|Search-Alt-Up | Move Block or line up           |
+|Search-Alt-Down    |Move Block / line down         |
+|Search-Ctrl-Left    | go to top                      |
+|Search-Ctrl-Right   | go to end                      |
+|Ctrl-1..3..| switch tabs|
+|Ctrl-tab, Ctrl-Shift+[|cycle tabs backwards|
+|Ctrl-Shift+]|cycle tabs forward|
+| Ctrl-Alt-Up | move cursor to end of line|
+| Ctrl-Alt-Down | move cursorginning of line |
+|  Ctrl-L | Go To Line Number | 
+| Ctrl-Shift-U | Ctrl-Shift-U | enter Unicode Characters |
 | Ctrl-U | Ctrl-U | change to upper case | change to upper case |
 | Alt-Shift-Down | Command-Option-Down | select one page block of text | copy lines down |
 | Alt-Shift-Up | Command-Option-Up | select one page of text | copy lines  up |

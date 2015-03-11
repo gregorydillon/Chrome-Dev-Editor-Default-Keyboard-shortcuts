@@ -4,10 +4,8 @@
 |:-------------------------------|:------------------------------|
 |Chromebook|Action|
 |Ctrl-Shift-/|Comment Block of Code|
-
 |Ctrl-Shift-L|select line|
 |Ctrl-Shift-D|duplicate selection / duplicate line|
-
 |Ctrl-Shift-F|search files AND search within files|
 |Ctrl-1..3..|switch tabs|
 |Ctrl-Shift+]|cycle tabs forward|

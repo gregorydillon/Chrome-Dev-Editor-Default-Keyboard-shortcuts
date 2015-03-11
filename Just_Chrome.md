@@ -1,3 +1,7 @@
+#Chromebook Keyboard Shortcuts for Chrome Dev Editor
+
+| Key Combo| Chromebook action              |
+|:-------------------------------|:------------------------------|
 |Chromebook|Action|
 |Ctrl-Shift-/|Comment Block of Code|
 |Ctrl-Shift-F|search files AND search within files|
